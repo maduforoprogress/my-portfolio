@@ -55,12 +55,4 @@ Feel free to reach out to me through any of the following channels:
 *   **X (Twitter):** [@just2great_](https://x.com/@just2great_)
 *   **Instagram:** [@prog.the_great](https://instagram.com/in/prog.the_great)
 
----
-
-## 💻 Local Setup
-To run this project locally:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/maduforoprogress/my-portfolio.git
-   ```
-2. Navigate to the project directory and open `home.html` in any modern web browser.
+-
